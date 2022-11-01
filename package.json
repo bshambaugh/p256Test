@@ -1,0 +1,21 @@
+{
+  "name": "p256test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dids": "^2.4.3",
+    "key-did-provider-p256": "^1.2.0",
+    "key-did-resolver": "^1.4.0",
+    "uint8arrays": "^4.0.2"
+  }
+}
